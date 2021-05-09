@@ -1,5 +1,6 @@
 # Basic-CNN-Model-on-Malaria-Dataset-96% accuracy
 
+Link of Dataset : https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 imported necessary libraries at first like pandas , numpy , os  , glob , matplotlib and many others
 
 Store directry path in variables so that we can extract the file names of the images. Then we extract the file names by using glob library
